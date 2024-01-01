@@ -1,7 +1,7 @@
 # Exp-03 Implementation of Half Adder and Full Adder circuit..
 
 ### Project By: MOHAMMED IBRAHIM MN
-###   Register No: 23005104
+###   Register No: 212223100034
 
 
 ### AIM:
